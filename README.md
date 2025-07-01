@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ahmed Saber</h1>
+<h1 align="center">Hi 👋🏼, I'm Mohamed Ahmed Saber</h1>
 <h3 align="center">🚀 Future Data Engineer | Building a solid foundation in data systems and architecture</h3>
 
 <p align="center">
