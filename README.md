@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋🏼, I'm Mohamed Saber</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ahmed Saber</h1>
 <h3 align="center">🚀 Future Data Engineer | Building a solid foundation in data systems and architecture</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt4ZzE3dGV5eDZ6eDBzM3Zkd3RzZHQ5ZWZnMG40OW83c2x1czF6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
 ---
